@@ -25,7 +25,7 @@ $ git config --global color.ui "auto"
 ~~~
 
 ### Problems
-* If you have any difficulties please reach out via email/twitter/in person. 
+* If you have any difficulties please reach out via email/in person. 
 
 
 
